@@ -1,0 +1,235 @@
+/*
+Theme Name: Whiteboard
+Theme URI: http://whiteboardframework.com/
+Author: Bold Perspective
+Author URI: http://boldperspective.com/
+Description: The Whiteboard Famework for Wordpress is built to speed up the process of developing a Wordpress theme. Whiteboard does so by eliminating the time spent on Wordpress' backend PHP that is common to all Wordpress powered Web site.
+Version: 3.0.2
+
+The Whiteboard Framework is licensed under the GPL license. Feel free to use the Whiteboard Framework for commercial and non-commercial ventures. We require a link in the CSS file and request a link on the website
+*/
+
+/*
+List of divs in Whiteboard
+Note that this list does not include the dynamically generated ids and classes, such as the body classes, the post ids, etc
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#main {
+
+}
+.container {
+	width: 960px; margin: 0 auto;
+}
+
+#if-logged-in {
+	height: 20px;
+	line-height: 20px;
+	background: #111;
+	color: #eee;
+	font-size: 11px;
+}
+	#if-logged-in p {
+		margin: 0;
+	}
+	#if-logged-in a:link,
+	#if-logged-in a:visited {
+		color: #fff;
+		text-decoration: none;
+		margin: 0px 15px;
+	}
+	#if-logged-in a:hover {
+		text-decoration: underline;
+	}
+	#if-logged-in a:active {
+		text-decoration: underline;
+		margin-bottom: -1px;
+	}
+
+header {
+	
+}
+	nav {
+		
+	}
+	nav.primary {
+		
+	}
+	nav.footer {
+		
+	}
+	#widgit-header {
+		
+	}
+	#widgit-alert {
+		
+	}
+
+#content {
+	
+}
+	article {
+		
+	}
+		.featured-thumbnail {
+			
+		}
+		.post-content {
+			
+		}
+			.pagination {
+				
+			}
+	.post-meta {
+		
+	}
+	.post-navigation {
+		
+	}
+
+#comments {
+	
+}
+	li.comment {
+		
+	}
+		.odd {
+			
+		}
+		.even {
+			
+		}
+		.author-comment {
+			
+		}
+		.comment-text {
+			
+		}
+		.comment-meta {
+			
+		}
+			p.gravatar {
+				
+			}
+	#trackbacks {
+		
+	}
+		li.trackback {
+			
+		}
+	p#no-comments {
+		
+	}
+	#comments-form {
+		
+	}
+		#respond {
+			
+		}
+		.cancel-comment-reply {
+			
+		}
+
+.page {
+	
+}
+	#page-content {
+		
+	}
+	#page-meta {
+		
+	}
+
+.post {
+	
+}
+	.postContent {
+		
+	}
+	.post-excerpt {
+		
+	}
+
+nav.oldernewer {
+	
+}
+	.older {
+		
+	}
+	.newer {
+		
+	}
+
+.search {
+	
+}
+
+.author {
+	
+}
+#recent-author-posts {
+	
+}
+#recent-author-comments {
+	
+}
+
+#error404 {
+	
+}
+
+#sidebar {
+	
+}
+	#widgit-sidebar {
+		
+	}
+		#sidebar-search {
+			
+		}
+		#sidebar-nav {
+			
+		}
+		#sidebar-archives {
+			
+		}
+		#sidebar-meta {
+			
+		}
+		.widgit {
+			
+		}
+
+#footer {
+	
+}
+	#widgit-footer {
+		
+	}
+	#footer-nav {
+		
+	}
+	
+.no-results {
+	
+}
+
+.widgit-area {
+	
+}
+
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+.clear {
+	clear: both;
+}
+
+/* Always remember to compress your live stylesheet and keep an uncompressed backup */
