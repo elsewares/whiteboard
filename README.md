@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is my git repo of the Whiteboard Framework (v.3.0.2) for Wordpress >3.0.2.  The contents of the readme.rtf are pasted below for clarity.
+This is my git repo of the Whiteboard Framework (v.3.0.2) for Wordpress >3.0.  The contents of the readme.rtf are pasted below for clarity.
 
 Whiteboard
 Version 3.0.2
